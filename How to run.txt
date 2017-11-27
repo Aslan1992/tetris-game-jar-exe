@@ -1,0 +1,13 @@
+Tetris by Aslan Almaniyazov
+
+How to run:
+1. Open cmd in current directory and run server side for tetris by typing command java -jar tetris.jar
+2. Run tetris-client.exe 
+
+Note: If you close client window during the game you should close server window and run it again 
+
+ ак запустить:
+1. ќткройте командную строку в текущей директории и запустите сервер дл€ тетриса --> java -jar tetris.jar
+2. «атем запустите tetris-client.exe
+
+≈сли вы закроете игровое окно в процессе игры, то нужно будет остановить сервер CTRL+C и запустить его заново   
